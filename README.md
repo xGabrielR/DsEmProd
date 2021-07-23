@@ -11,5 +11,4 @@
 
 <p>After brainstorming and hypothesis validation, some insights appeared.</p>
 
-<p>OBS: I have stopped this project for a shor  time, to focus on Statistic and Mathematic</p>
 
