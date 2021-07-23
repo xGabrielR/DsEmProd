@@ -1,5 +1,4 @@
-# Rossman Store Sales
-<h1>My First Data Science Project</h1>
+# Rossman Store Sales -> Data Science Project
 
 <h2>1. Bussines Problem</h2>
 
