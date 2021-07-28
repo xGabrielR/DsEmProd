@@ -10,5 +10,7 @@
 <h2>2. EDA Insight's</h2>
 
 <p>After brainstorming and hypothesis validation, some insights appeared.</p>
+<h3> Top 3 Insight's </h3>
+
 
 
