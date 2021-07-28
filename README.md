@@ -5,7 +5,7 @@
 <h2>1. Bussines Problem</h2>
 
 <p>Rossman's CFO would like to predict how much money its stores will generate to renovate them in the future.</p>
-<p>Rossmann CEO, asked to all of shops merchant's to send for him this prediction, with this problem, all rossmann's merchant's asked to data/analisys team this prediction.</p>
+<p>Rossmann CFO, asked to all of shops merchant's to send for him this prediction, with this problem, all rossmann's merchant's asked to data/analisys team this prediction.</p>
 
 <h2>2. EDA Insight's</h2>
 
