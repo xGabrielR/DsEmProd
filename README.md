@@ -10,6 +10,18 @@
 <h2>2. Solution Strategy & Assumptions </h2>
 <h3>First CRISP Cycle</h3>
 
+<ul>
+  <dl>
+    <dt>Data Clearing & Descriptive Statistical.</dt>
+      <dd>First real step is download the dataset, import in jupyter and start in seven steps to change data types, data dimension, fillout na... At first statistic dataframe, i used simple statistic descriptions to check how my data is organized.</dd>
+    <dt>Feature Engineering.</dt>
+      <dd>In this step, with coggle.it to make a mind map and use the mind map to create some hypothesis list, after this list, i created some new features based on date.</dd>
+    <dt>Data Filtering.</dt>
+      <dd>Simple way to reduce dimensionality of dataset.</dd>
+    <dt>Exploration Data Analysis.</dt>
+      <dd>Validation of all hypotesis list with data.</dd>
+  </dl>
+</ul>
 
 <h2>3. EDA Insight's</h2>
 
