@@ -11,6 +11,9 @@
 
 <p>After brainstorming and hypothesis validation, some insights appeared.</p>
 <h3> Top 3 Insight's </h3>
-
-
+<ul>
+  <li>Stores with large assortment, sell less.</li>
+  <li>Stores with consecutive promo, sell less.</li>
+  <li>Stores with closely competitors, sell more.</li>
+</ul>
 
