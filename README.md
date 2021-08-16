@@ -33,3 +33,14 @@
   <li>Stores with closely competitors, sell more.</li>
 </ul>
 
+<h2>4. Machine Learning Model</h2>
+
+<p>I have used 5 Models.</p>
+<ul>
+  <li>Linear Regression.</li>
+  <li>Bayesian Regression.</li>
+  <li>Regularized Linear Regression.</li>
+  <li>Random Forest Regressor.</li>
+  <li>XGBoost Regressor.</li>
+</ul>
+
