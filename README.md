@@ -35,7 +35,18 @@
 
 <h2>4. Machine Learning Model</h2>
 
-<p>I have used 5 Models.</p>
+<p>Selected have used 5 Models.</p>
+<ul>
+  <li>Linear Regression.</li>
+  <li>Bayesian Regression.</li>
+  <li>Regularized Linear Regression.</li>
+  <li>Random Forest Regressor.</li>
+  <li>XGBoost Regressor.</li>
+</ul>
+
+<h2>4.x Neural Network</h2>
+
+<p>After completed the first cycle, i have tryied to use a neural network.</p>
 <ul>
   <li>Linear Regression.</li>
   <li>Bayesian Regression.</li>
