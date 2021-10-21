@@ -51,7 +51,7 @@
 <h2>4.x Neural Network</h2>
 <p>After completed the first cycle, i have tryied to use a neural network.</p>
 
-<h2>5. Model Evaluatin</h2>
+<h2>5. Model Evaluation</h2>
 
 <ul>
   <dl>
