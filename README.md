@@ -1,6 +1,7 @@
 # Rossmann Store Sales -> Data Science Project
 
-![Sem título](https://user-images.githubusercontent.com/75986085/126849210-c38edf19-e6f5-47a5-b008-369afd0c6f87.png)
+![rossmann](https://user-images.githubusercontent.com/75986085/152585675-a7ceff53-8a6f-4548-84ea-abfd32c00fbf.png)
+
 
 <h2>0. Rossmann Stores Data and Info</h2>
 <p>Rossmann are a chain of pharmacies located in Europe, mainly in Germany, with around 56,200 employees and more than 4000 stores. The company was founded by Dirk Rossmann with its headquarters in Burgwedel near Hanover in Germany. ~ Wiki.</p>
