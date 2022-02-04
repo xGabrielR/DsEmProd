@@ -2,6 +2,32 @@
 
 ![Sem título](https://user-images.githubusercontent.com/75986085/126849210-c38edf19-e6f5-47a5-b008-369afd0c6f87.png)
 
+<h2>0. Rossmann Stores Data and Info</h2>
+<p>Rossmann are a chain of pharmacies located in Europe, mainly in Germany, with around 56,200 employees and more than 4000 stores. The company was founded by Dirk Rossmann with its headquarters in Burgwedel near Hanover in Germany. ~ Wiki.</p>
+
+<p>Rossmann CFO on a monthly results meeting asked to all store mananger a sales forecast for the next six monsths.</p>
+
+<p>CFO Like to know next sales for start a reform of all shops.
+Pharmaceutical Bussiness Model
+Rossmann is present with an e-commerce and in physical stores available for sales of household items, makeup and of course drugstore items, as it is a chain of pharmacies, it is spread over several parts of Europe, thus being able to select regions with greater growth potential and reducing the competition rate.
+'First Assumptions'</p>
+
+<ul>
+  <dl>
+    <dt>Market Size.</dt>
+      <dd>All persons over 18 years of age, with preference for older persons.</dd>
+    <dt>Marketing Channels.</dt>
+      <dd>Rossmann Website & Shops.</dd>
+    <dt>Principal Metrics.</dt>
+      <dd>Channel Offline: Working on physical stores.</dd>
+      <dd>Recency: Purchases over time.</dd>
+      <dd>Frequency: Shop sales frequency for sales forecast.</dd>
+      <dd>Market Share: Sales competitions.</dd>
+  </dl>
+</ul>
+
+<p>Data Information at: https://www.kaggle.com/c/rossmann-store-sales</p>
+
 <h2>1. Bussines Problem</h2>
 
 <p>Rossman's CFO would like to predict how much money its stores will generate to renovate them in the future.</p>
