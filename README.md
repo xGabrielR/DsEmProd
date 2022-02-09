@@ -71,39 +71,3 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 
   
 </ul>
-
-<h2>4. Machine Learning Model</h2>
-
-<p>Selected have used 5 Models.</p>
-<ul>
-  <li>Linear Regression.</li>
-  <li>Bayesian Regression.</li>
-  <li>Regularized Linear Regression.</li>
-  <li>Random Forest Regressor.</li>
-  <li>XGBoost Regressor.</li>
-</ul>
-
-![1](https://user-images.githubusercontent.com/75986085/129580857-8522b49a-2a36-40d2-a658-bab068278511.png)
-
-<p>Used XGBOOST in Hyperparameter.</p>
-
-<h2>4.x Neural Network</h2>
-<p>After completed the first cycle, i have tryied to use a neural network.</p>
-
-<h2>5. Model Evaluation</h2>
-
-<ul>
-  <dl>
-    <dt>Geral Forecast.</dt>
-      <dd>R$ 285,633,248.00</dd>
-    <dt>Worst Scenario.</dt>
-      <dd>R$ 284,899,971.45</dd>
-    <dt>Best Scenario.</dt>
-      <dd>R$ 286,366,504.10.</dd>
-  </dl>
-</ul>
-
-<h2>6. Second Cycle</h2>
-<p>In second cycle, is possible to add new features, use school holiday in prediction and optimize neural network.</p>
-<p>Is possible to know more about another stores, to add new features, because have a little stores without a good model forecast.</p>
-<p>Any other ideia, is deploy with streamlit, CFO need to see dashboards too.</p>
