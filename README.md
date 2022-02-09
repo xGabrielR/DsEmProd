@@ -56,8 +56,20 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 <h3> Top 3 Insight's </h3>
 <ul>
   <li>Stores with large assortment, sell less.</li>
-  <li>Stores with consecutive promo, sell less.</li>
+
+![sales](https://user-images.githubusercontent.com/75986085/153096505-fe9a9afb-f6e6-451d-a85d-d5579839071d.jpeg)
+
+  
+  <li>Stores with consecutive promo, sell less if long time of promo.</li>
+  
+![promo](https://user-images.githubusercontent.com/75986085/153096571-6f01a3b5-a87c-487d-acdd-7c1592e379c3.jpg)
+
+  
   <li>Stores with closely competitors, sell more.</li>
+  
+![less](https://user-images.githubusercontent.com/75986085/153096584-eb58b3c4-2d4e-457e-a7f8-82ef6f9b5604.jpg)
+
+  
 </ul>
 
 <h2>4. Machine Learning Model</h2>
