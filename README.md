@@ -27,6 +27,20 @@ Rossmann is present with an e-commerce and in physical stores available for sale
   </dl>
 </ul>
 
+![chanel](https://user-images.githubusercontent.com/75986085/153439927-f4684894-7067-4023-b089-2116e6d5a7bb.png)
+
+1. Do older customers buy more from physical stores or from competitors?
+2. What is the marketing investment compared to physical stores in terms of e-commerce?
+3. What are the new products that make customers buy from Rossmann stores instead of competing stores?
+4. How do these stores behave in terms of receiving new merchandise to sell to new customers?
+5. Are the products sold easily accessible?
+6. How are the prices of the products in relation to the location of the stores?
+7. How are rossmann products and stores being evaluated?
+8. What is the buying process like for these customers?
+9. Would a customer who bought in a physical store buy again?
+10. How much does a customer cost for physical stores?
+11. Who are the main partners of the rossmann brand? ...
+
 <p>Data Information at: https://www.kaggle.com/c/rossmann-store-sales</p>
 
 <h2>1. Bussines Problem</h2>
