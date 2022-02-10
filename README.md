@@ -40,7 +40,8 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 8. What is the buying process like for these customers?
 9. Would a customer who bought in a physical store buy again?
 10. How much does a customer cost for physical stores?
-11. Who are the main partners of the rossmann brand? ...
+11. Who are the main partners of the rossmann brand?
+12. Is there a community of customers where they can engage with the products? ...
 
 <p>Data Information at: https://www.kaggle.com/c/rossmann-store-sales</p>
 
