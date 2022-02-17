@@ -56,9 +56,11 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 <h3>First CRISP Cycle</h3>
 
 <h4>2.1. After Stakeholder Interview</h4>
+
 > *How might we identify the budget needed for stores reformation?*
 
 <h4>2.2. Data Product</h4>
+
 > *A.I Model to forecast the sales at smartphone*
 
 <ul>
