@@ -13,6 +13,7 @@
 Pharmaceutical Bussiness Model
 Rossmann is present with an e-commerce and in physical stores available for sales of household items, makeup and of course drugstore items, as it is a chain of pharmacies, it is spread over several parts of Europe, thus being able to select regions with greater growth potential and reducing the competition rate.
 'First Assumptions'</p>
+<p>The Course Base [Project Link](https://sejaumdatascientist.com/eu-criei-esse-projeto-e-consegui-meu-primeiro-emprego-como-data-scientist/) .</p>
 
 <ul>
   <dl>
@@ -103,9 +104,16 @@ Rossmann is present with an e-commerce and in physical stores available for sale
       <dd>Working with Sin/Cos for seasonal data.</dd>
   </dl>
 </ul>
-<h2>QQPlot</h2>
+<h2>4.1. Frequency Encoding</h2>
+<p></p>
+<h2>4.2. QQPlot</h2>
 <p>With QQPlot Quantile-Quantile Plot it is possible to observe how close the tested distribution is to a normal distribution, the normal distribution is characterized when blue line is equal to red line, there are other ways of doing this verification such as statistical tests, among others.</p>
 
 ![1](https://user-images.githubusercontent.com/75986085/154390648-3e89fe22-c6f8-4e65-ac09-b025e364766a.png)
 
-
+<h2>7. References</h2>
+1. https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/
+2. https://www.strategyzer.com/books/business-model-generation
+3. https://www.docusign.com.br/blog/indicadores-do-varejo
+4. 
+5. https://www.kaggle.com/bhavikapanara/frequency-encoding
