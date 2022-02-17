@@ -63,6 +63,10 @@ Rossmann is present with an e-commerce and in physical stores available for sale
       <dd>Simple way to reduce dimensionality of dataset.</dd>
     <dt>Exploration Data Analysis.</dt>
       <dd>Validation of all hypotesis list with data.</dd>
+    <dt>Data Preparation.</dt>
+      <dd>Split & Prepare and Prepare & Split, this two versios of preparation can provide data leak.</dd>
+    <dt>Machine Learning Modeling.</dt>
+      <dd>Selection of Four ML Models, Base, Linear and two Tree-Based.</dd>
   </dl>
 </ul>
 
@@ -84,6 +88,24 @@ Rossmann is present with an e-commerce and in physical stores available for sale
   <li>Stores with closely competitors, sell more.</li>
   
 ![less](https://user-images.githubusercontent.com/75986085/153096584-eb58b3c4-2d4e-457e-a7f8-82ef6f9b5604.jpg)
-
   
+</ul>
+
+<h2>4. Data Preparation</h2>
+<p>When you have "date" features on dataset, its possible to you get data leak during model training. I have selected two tipes of preparation, one splited train and test after data preparation, and before data preparation to check the data leakege.</p>
+<ul>
+  <dl>
+    <dt>Categorical Data.</dt>
+      <dd>Used the Frequency Encoding to all Categorical Data.</dd>
+    <dt>Rescaling.</dt>
+      <dd>After KStest and QQplot, it was not necessary to normalize.</dd>
+    <dt>Data Filtering.</dt>
+      <dd>Simple way to reduce dimensionality of dataset.</dd>
+    <dt>Exploration Data Analysis.</dt>
+      <dd>Validation of all hypotesis list with data.</dd>
+    <dt>Data Preparation.</dt>
+      <dd>Split & Prepare and Prepare & Split, this two versios of preparation can provide data leak.</dd>
+    <dt>Machine Learning Modeling.</dt>
+      <dd>Selection of Four ML Models, Base, Linear and two Tree-Based.</dd>
+  </dl>
 </ul>
