@@ -97,15 +97,15 @@ Rossmann is present with an e-commerce and in physical stores available for sale
   <dl>
     <dt>Categorical Data.</dt>
       <dd>Used the Frequency Encoding to all Categorical Data.</dd>
-    <dt>Rescaling.</dt>
-      <dd>After KStest and QQplot, it was not necessary to normalize.</dd>
-    <dt>Data Filtering.</dt>
-      <dd>Simple way to reduce dimensionality of dataset.</dd>
-    <dt>Exploration Data Analysis.</dt>
-      <dd>Validation of all hypotesis list with data.</dd>
-    <dt>Data Preparation.</dt>
-      <dd>Split & Prepare and Prepare & Split, this two versios of preparation can provide data leak.</dd>
-    <dt>Machine Learning Modeling.</dt>
-      <dd>Selection of Four ML Models, Base, Linear and two Tree-Based.</dd>
+    <dt>Normalization.</dt>
+      <dd>After KStest and QQplot, it was not necessary to normalize, because dont have normal distribution.</dd>
+    <dt>Nature Transformation.</dt>
+      <dd>Working with Sin/Cos for seasonal data.</dd>
   </dl>
 </ul>
+<h2>QQPlot</h2>
+<p>With QQPlot Quantile-Quantile Plot it is possible to observe how close the tested distribution is to a normal distribution, the normal distribution is characterized when blue line is equal to red line, there are other ways of doing this verification such as statistical tests, among others.</p>
+
+![1](https://user-images.githubusercontent.com/75986085/154390648-3e89fe22-c6f8-4e65-ac09-b025e364766a.png)
+
+
