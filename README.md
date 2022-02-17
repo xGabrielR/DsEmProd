@@ -13,7 +13,7 @@
 Pharmaceutical Bussiness Model
 Rossmann is present with an e-commerce and in physical stores available for sales of household items, makeup and of course drugstore items, as it is a chain of pharmacies, it is spread over several parts of Europe, thus being able to select regions with greater growth potential and reducing the competition rate.
 'First Assumptions'</p>
-<p>The Course Base [Project Link](https://sejaumdatascientist.com/eu-criei-esse-projeto-e-consegui-meu-primeiro-emprego-como-data-scientist/) .</p>
+<p>The Course Base <a href='https://sejaumdatascientist.com/eu-criei-esse-projeto-e-consegui-meu-primeiro-emprego-como-data-scientist/'>Seja Um Data Scientist</a>.</p>
 
 <ul>
   <dl>
@@ -112,8 +112,9 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 ![1](https://user-images.githubusercontent.com/75986085/154390648-3e89fe22-c6f8-4e65-ac09-b025e364766a.png)
 
 <h2>7. References</h2>
-1. https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/
-2. https://www.strategyzer.com/books/business-model-generation
-3. https://www.docusign.com.br/blog/indicadores-do-varejo
-4. 
-5. https://www.kaggle.com/bhavikapanara/frequency-encoding
+<ul>
+  <li><a href='https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/'>Practical Statistics Book</li>
+  <li><a href='https://www.strategyzer.com/books/business-model-generation'>Model Bussiness Book</li>
+  <li><a href='https://www.docusign.com.br/blog/indicadores-do-varejo'>Retail Metrics</li>
+  <li><a href='https://www.kaggle.com/bhavikapanara/frequency-encoding'>Frequency Encoding</li>
+</ul>
