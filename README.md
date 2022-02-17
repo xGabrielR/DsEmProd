@@ -51,8 +51,15 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 <p>Rossman's CFO would like to predict how much money its stores will generate to renovate them in the future.</p>
 <p>Rossmann CFO, asked to all of shops merchant's to send for him this prediction, with this problem, all rossmann's merchant's asked to data/analisys team this prediction.</p>
 <p>New Version of project (04/02/2021)</p>
+
 <h2>2. Solution Strategy & Assumptions </h2>
 <h3>First CRISP Cycle</h3>
+
+<h4>2.1. After Stakeholder Interview</h4>
+> *How might we identify the budget needed for stores reformation?*
+
+<h4>2.2. Data Product</h4>
+> *A.I Model to forecast the sales at smartphone*
 
 <ul>
   <dl>
