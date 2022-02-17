@@ -120,10 +120,17 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 
 ![1](https://user-images.githubusercontent.com/75986085/154390648-3e89fe22-c6f8-4e65-ac09-b025e364766a.png)
 
+<h2>5. Machine Learning Models</h2>
+<p>I have used three models, SVR (Support Vector Regression), Random Forest and XGBoost (Gradient boosted decision tree).</p>
+
+![models](https://user-images.githubusercontent.com/75986085/154582560-384c54b0-c4a3-4e11-8862-5905ac12c197.png)
+
+
 <h2>7. References</h2>
 <ul>
   <li><a href='https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/'>Practical Statistics Book</li>
   <li><a href='https://www.strategyzer.com/books/business-model-generation'>Model Bussiness Book</li>
   <li><a href='https://www.docusign.com.br/blog/indicadores-do-varejo'>Retail Metrics</li>
   <li><a href='https://www.kaggle.com/bhavikapanara/frequency-encoding'>Frequency Encoding</li>
+  <li><a href='https://en.wikipedia.org/wiki/Gradient_boosting'>Gradient Boosting</li>
 </ul>
