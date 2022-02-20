@@ -113,15 +113,15 @@ Rossmann is present with an e-commerce and in physical stores available for sale
       <dd>Working with Sin/Cos for seasonal data.</dd>
   </dl>
 </ul>
-<h2>4.1. Frequency Encoding</h2>
+<h3>4.1. Frequency Encoding</h3>
 <p>It is an encoder method that takes into account the number of times the value appears, for example in 10 records, 5 of which are blue and red, so the frequency is .5%
 </p>
-<h2>4.2. QQPlot</h2>
+<h3>4.2. QQPlot</h3>
 <p>With QQPlot Quantile-Quantile Plot it is possible to observe how close the tested distribution is to a normal distribution, the normal distribution is characterized when blue line is equal to red line, there are other ways of doing this verification such as statistical tests, among others.</p>
 
 ![1](https://user-images.githubusercontent.com/75986085/154390648-3e89fe22-c6f8-4e65-ac09-b025e364766a.png)
 
-<p>4.3. Feature Selection</p>
+<h3>4.3. Feature Selection</h3>
 <p>XGBoost Feature Importance is a fast and good way to see which feature is important, feature selection is a second way to select features for better performace of model and following the principles of Occam's Razor.</p>
 
 ![feature_importance](https://user-images.githubusercontent.com/75986085/154825186-179f4ce0-86f8-4add-96ac-4138eed46c62.png)
