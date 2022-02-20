@@ -116,6 +116,7 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 <h3>4.1. Frequency Encoding</h3>
 <p>It is an encoder method that takes into account the number of times the value appears, for example in 10 records, 5 of which are blue and red, so the frequency is .5%
 </p>
+
 <h3>4.2. QQPlot</h3>
 <p>With QQPlot Quantile-Quantile Plot it is possible to observe how close the tested distribution is to a normal distribution, the normal distribution is characterized when blue line is equal to red line, there are other ways of doing this verification such as statistical tests, among others.</p>
 
