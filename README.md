@@ -114,16 +114,33 @@ Rossmann is present with an e-commerce and in physical stores available for sale
   </dl>
 </ul>
 <h2>4.1. Frequency Encoding</h2>
-<p></p>
+<p>It is an encoder method that takes into account the number of times the value appears, for example in 10 records, 5 of which are blue and red, so the frequency is .5%
+</p>
 <h2>4.2. QQPlot</h2>
 <p>With QQPlot Quantile-Quantile Plot it is possible to observe how close the tested distribution is to a normal distribution, the normal distribution is characterized when blue line is equal to red line, there are other ways of doing this verification such as statistical tests, among others.</p>
 
 ![1](https://user-images.githubusercontent.com/75986085/154390648-3e89fe22-c6f8-4e65-ac09-b025e364766a.png)
 
+<p>4.3. Feature Selection</p>
+<p>XGBoost Feature Importance is a fast and good way to see which feature is important, feature selection is a second way to select features for better performace of model and following the principles of Occam's Razor.</p>
+
+![feature_importance](https://user-images.githubusercontent.com/75986085/154825186-179f4ce0-86f8-4add-96ac-4138eed46c62.png)
+
+<p>Feature selection is one of most importante step on data science projects.</p>
+
 <h2>5. Machine Learning Models</h2>
 <p>I have used three models, SVR (Support Vector Regression), Random Forest and XGBoost (Gradient boosted decision tree).</p>
 
 ![models](https://user-images.githubusercontent.com/75986085/154582560-384c54b0-c4a3-4e11-8862-5905ac12c197.png)
+
+<p>I have selected the XGBoost than all of other two for production, in the step of hyperparameter fine tuning I used a tuning technique called Random Search and tested the trained model in the dataset with data leakage and in the dataset without data leakage. The information are in Notebook m03_machine_learningII.</p>
+
+<!--- 
+
+<h2>6. Bussiness Results</h2>
+<p>Olá Mundo!</p>
+
+--->
 
 
 <h2>7. References</h2>
@@ -133,4 +150,6 @@ Rossmann is present with an e-commerce and in physical stores available for sale
   <li><a href='https://www.docusign.com.br/blog/indicadores-do-varejo'>Retail Metrics</li>
   <li><a href='https://www.kaggle.com/bhavikapanara/frequency-encoding'>Frequency Encoding</li>
   <li><a href='https://en.wikipedia.org/wiki/Gradient_boosting'>Gradient Boosting</li>
+  <li><a href='https://en.wikipedia.org/wiki/Occam%27s_razor'>Occam's Razor</li>
+  <li><a href='https://machinelearningmastery.com/hyperparameter-optimization-with-random-search-and-grid-search/'>Random Search Tuning</li>
 </ul>
