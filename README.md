@@ -142,6 +142,7 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 ![hard_shops](https://user-images.githubusercontent.com/75986085/155026649-f00b6e31-740c-465e-b67c-ddccee4342e8.png)
 
 <p>Below have the Sum of sales for each senario.</p>
+
 ![model_money](https://user-images.githubusercontent.com/75986085/155026940-46e5fd45-4d2c-4287-bf5e-ae2ccea0cbf8.png)
 
 <h2>7. Model Deployment</h2>
