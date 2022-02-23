@@ -149,6 +149,8 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 <p>For deployment i selected Heroku for base clound 24/7h free.</p>
 <p>Made a Telegram Bot and Personal '.exe' app for CFO to check the sales on smartphone and desktop.</p>
 
+![saleforecast](https://user-images.githubusercontent.com/75986085/155249780-4a13e269-2975-4212-b3a0-5de25f7a84a8.png)
+
 <h2>7. References</h2>
 <ul>
   <li><a href='https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/'>Practical Statistics Book</li>
