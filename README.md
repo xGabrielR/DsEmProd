@@ -46,6 +46,13 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 
 <p>Data Information at: https://www.kaggle.com/c/rossmann-store-sales</p>
 
+<p>First Deploy is Telegram Bot</p>
+
+![rossbot](https://user-images.githubusercontent.com/75986085/155424956-98091941-82fd-471d-bbbc-39fec0960b21.gif)
+
+<p>Second Deploy executable software.</p>
+<p>In Dev</p>
+
 <h2>1. Bussines Problem</h2>
 
 <p>Rossman's CFO would like to predict how much money its stores will generate to renovate them in the future.</p>
