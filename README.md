@@ -48,7 +48,7 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 
 <p>First Deploy is Telegram Bot</p>
 
-![rossbot](https://user-images.githubusercontent.com/75986085/155424956-98091941-82fd-471d-bbbc-39fec0960b21.gif)
+![rossbot](https://user-images.githubusercontent.com/75986085/155425763-b8051e72-e81a-4287-a43e-d2fdc4e35adf.gif)
 
 <p>Second Deploy executable software.</p>
 <p>In Dev</p>
