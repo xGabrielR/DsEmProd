@@ -7,7 +7,7 @@
 <p>Rossmann are a chain of pharmacies located in Europe, mainly in Germany, with around 56,200 employees and more than 4000 stores. The company was founded by Dirk Rossmann with its headquarters in Burgwedel near Hanover in Germany. ~ Wiki.</p>
 <p>What is a pharmacies chain?<br>Basically the chain start with one shop open named 'matrix', the next shop open is the branche. Have two types of chain, the associated chain is when several pharmacies with different owners get together & private chain which starts with the 'matrix' company and has a general owner.</p>
 
-<p>Rossmann CFO on a monthly results meeting asked to all store mananger a sales forecast for the next six monsths.</p>
+<p>Rossmann CFO on a monthly results meeting asked to all store mananger a sales forecast for the next six months.</p>
 
 <p>CFO Like to know next sales for start a reform of all shops.
 Pharmaceutical Bussiness Model
