@@ -158,6 +158,8 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 
 ![sales](https://user-images.githubusercontent.com/75986085/155308939-12f879ae-bdde-41f7-b02d-dade281606b6.png)
 
+![img](https://user-images.githubusercontent.com/75986085/155615451-2e2ff8b0-45a6-4c7e-b214-f53aae2e2a87.png)
+
 <h2>7. References</h2>
 <ul>
   <li><a href='https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/'>Practical Statistics Book</li>
