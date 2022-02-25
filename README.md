@@ -18,7 +18,7 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 <ul>
   <dl>
     <dt>Market Size.</dt>
-      <dd>All persons over 18 years of age, with preference for older persons.</dd>
+      <dd>All persons over 18 years old, with preference for older persons.</dd>
     <dt>Marketing Channels.</dt>
       <dd>Rossmann Website & Shops.</dd>
     <dt>Principal Metrics.</dt>
