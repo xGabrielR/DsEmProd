@@ -2,6 +2,7 @@
 
 ![rossmann](https://user-images.githubusercontent.com/75986085/152585675-a7ceff53-8a6f-4548-84ea-abfd32c00fbf.png)
 
+<a href='https://github.com/xGabrielR/Rossmann-Store-Sales/blob/main/notebooks/Storytelling_Documentation_Rossmann.pdf'>Full PDF Documentation PT-BR.</a>
 
 <h2>0. Rossmann Stores Data and Info</h2>
 <p>Rossmann are a chain of pharmacies located in Europe, mainly in Germany, with around 56,200 employees and more than 4000 stores. The company was founded by Dirk Rossmann with its headquarters in Burgwedel near Hanover in Germany. ~ Wiki.</p>
