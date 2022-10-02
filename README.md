@@ -54,7 +54,7 @@ Rossmann is present with an e-commerce and in physical stores available for sale
 <p>Second Deploy executable software.</p>
 <p>In Dev</p>
 
-<h2>1. Bussines Problem</h2>
+<h2>1. Business Problem</h2>
 
 <p>Rossman's CFO would like to predict how much money its stores will generate to renovate them in the future.</p>
 <p>Rossmann CFO, asked to all of shops merchant's to send for him this prediction, with this problem, all rossmann's merchant's asked to data/analisys team this prediction.</p>
